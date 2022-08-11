@@ -1,15 +1,31 @@
+# Atomix - Trial for Frontend Developers (React, Next and TypeScript)
+### Focusing on: React, Next and TypeScript skills
+
+## Introduction
+This is the second step in our trial for full-stack web developer role who have opted to go for the NextJS path.\
+This trial will test you React, Next and TypeScript skills additionally to the frontend skills tested in the [previous trial](https://github.com/atomixdesign/candidate-project-html-css).
+
+## Trial Instructions
+To complete this trial, you can use your existing HTML and CSS code from the previous trial to setup a Next version of this [site design](https://xd.adobe.com/view/9b96df8b-7468-4806-9b66-1a0cd6e30fa4-cec5/). \
+Once that is completed, create a `data` folder and setup individual `.json` files for parts of the homepage content and dynamically fetch the JSON data to the Next app.
+
+** Note: We would like to see your TypeScript knowledge as much as possible.
+
+## Getting Started with Create Next App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Available Scripts
 
-First, run the development server:
+In the project directory, you can run:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+#### `yarn install`
 
+Installs the required packages from the `yarn.lock` file.
+
+#### `yarn dev`
+
+Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
@@ -18,17 +34,13 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## How to submit your work?
+Fork this repo and provide us with a pull request to view your work. You can also inform us by emailing to the person who contacted you in regard to the trial.
 
-To learn more about Next.js, take a look at the following resources:
+## How long do you have to complete this first trial?
+We recommend sending the completed pull request as soon as possible, but we would roughly estimate about a week to complete it. Please inform us if you have any concerns or clarifications with regards to the trial.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Other trials
+- [HTML, CSS/SCSS and JavaScript](https://github.com/atomixdesign/candidate-project-html-css)
+- [ReactJS path](https://github.com/atomixdesign/candidate-project-react)
+- [WordPress path](https://github.com/atomixdesign/candidate-project-wordpress)
